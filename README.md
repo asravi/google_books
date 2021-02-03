@@ -13,20 +13,10 @@ The goal of this application is to use the create-react-app project as a starter
 * Built Reusable statelss react components using ES6 and JSX 
 * Communicate with Backend API's using axios and populate components states with data  
 
-### Demo
-	
-Clicky Game is deployed on Heroku. Please check it out [here](https://serene-spire-87200.herokuapp.com/).
 
 
-### Install
 
-Some basic Git commands are:
-
-```
-$ git clone https://github.com/mohamedsamara/google-books-search.git
-$ cd project
-$ npm install
-```
+### Instructions
 
 
 ### Simple build for production
